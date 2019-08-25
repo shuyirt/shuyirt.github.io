@@ -1,10 +1,10 @@
 # Jekyll Defaults
-title: blueface
-description: A small and simple site I made to test out Jekyll.
+title: Shuyi Tao
+description: My personal site using Jekyll + blueface theme.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://thien.github.io/blueface/"
-github: http://github.com/tnguyen/blueface
+url: "https://shuyirt.github.io"
+github: https://github.com/shuyirt/shuyirt.github.io
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
@@ -17,5 +17,5 @@ navigation:
   url: /about/
 - text: Archives
   url: /archives/
-- text: Tags
+- text: Tagse
   url: /tags/
